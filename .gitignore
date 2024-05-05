@@ -1,0 +1,8 @@
+.cph
+.vscode
+/**/*.exe
+/**/*.out
+/**/*.o
+/**/*output
+/**/*output.txt
+/**/*input.txt
